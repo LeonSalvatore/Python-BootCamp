@@ -15,7 +15,7 @@
 
 def my_first_function():
     print("Hello from my first function")
-my_first_function()
+
 
 def my_function_with_parameters(name):
     print("Hello " + name)
@@ -26,3 +26,13 @@ def my_function_with_default_parameters(name="John"):
     print("Hello " + name)
     
 my_function_with_default_parameters()
+
+def function(): 
+    print("Hello from function")
+    
+function()
+
+leon = 'Leon'
+leon = 10
+
+print(leon)
